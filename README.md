@@ -1,5 +1,7 @@
 <h1 align='center'>DirShoot v1</h1>
 
+<img src="screenshoot.png">
+
 <b>Script by : 99kar</b>
 
 <b>Telegram : https://t.me/karr99</b>
