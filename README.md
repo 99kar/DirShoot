@@ -1,6 +1,6 @@
 <h1 align='center'>DirShoot v1</h1>
 
-<img src="screenshoot.png">
+<img src="https://c.top4top.io/p_273190cw11.png">
 
 <b>Script by : 99kar</b>
 
